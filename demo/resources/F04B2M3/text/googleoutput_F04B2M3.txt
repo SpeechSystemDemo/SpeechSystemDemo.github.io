@@ -1,0 +1,255 @@
+Three   D3 THREE
+Nine    D9 NINE
+Zero    D0
+Six D6 
+Seven   D7 
+Eight   D8
+Four    D4 FOUR
+Five    D5 FIVE
+One D1 ONE
+Two D2 TWO
+Echo    LE ECHO
+Delta   LD DELTA
+Whiskey LW WHISKEY
+Kilo    LK HEE HAW
+Sierra  LS YEAH
+Tango   LT 
+Uniform LU UNICORN
+X-ray   LX 
+Juliet  LJ JULIET
+Charlie LC CHARLIE
+Quebec  LQ QUEBEC
+Papa    LP PAPA
+Zulu    LZ
+Romeo   LR 
+Foxtrot LF BUCKSHOT
+India   LI INDIA
+Lima    LL LIMA
+Victor  LV VICTOR
+Yankee  LY INKY
+Golf    LG GOLF
+Hotel   LH HOTEL
+November    LN NOVEMBER
+Bravo   LB BRAVO
+Oscar   LO AFTER
+Alpha   LA ALPHA
+Mike    LM MIKE
+Command C1 COMMAND
+Backspace   C2 BLACK BAY
+Delete  C3 DELETE
+Enter   C4 ANDREW
+Tab C5 CAB
+Escape  C6 ESCAPE
+Alt C7 WHAT
+Control C8 CONTROL
+Shift   C9 SHIFT
+Line    C10 
+Paragraph   C11 PARAGRAPH
+Sentence    C12 PENDANT
+Paste   C13 PAGE
+Cut C14 CUT
+Copy    C15 COPY
+Upward  C16 UPWARD
+Downward    C17 DOWNLOAD
+Left    C18 LAUGHED
+Right   C19 RIGHT
+the CW1
+of  CW2
+and CW3 AND
+a   CW4
+to  CW5
+in  CW6
+is  CW7 IF
+you CW8 YOU
+that    CW9 THAT
+it  CW10 
+he  CW11 
+was CW12
+for CW13 FOUR
+on  CW14 
+are CW15
+as  CW16
+with    CW17
+his CW18
+they    CW19 MAY
+I   CW20
+at  CW21
+be  CW22 BE
+this    CW23 THIS
+have    CW24 HAVE
+from    CW25 ROME
+or  CW26 OR
+had CW27 HAD
+by  CW28 BYE
+word    CW29 WORD
+but CW30 BUT
+not CW31 
+what    CW32 WHAT
+all CW33 ALL
+were    CW34 WHERE
+we  CW35 WE
+when    CW36 
+your    CW37 YOUR
+can CW38 CAN 
+said    CW39 DEAD
+there   CW40 THERE
+use CW41 YOU
+an  CW42 AND
+each    CW43 
+which   CW44 WHICH
+she CW45 SHE
+do  CW46 DO
+how CW47 
+their   CW48 THERE
+if  CW49 IF 
+will    CW50 WILL
+up  CW51 
+other   CW52 OTHER
+about   CW53 MILEAGE
+out CW54 OUT 
+many    CW55 MANY
+then    CW56 GUN
+them    CW57 THEN
+these   CW58 
+so  CW59 SO
+some    CW60 
+her CW61
+would   CW62 WORD
+make    CW63 MAKE
+like    CW64 LIKE
+him CW65
+into    CW66 INTO
+time    CW67 
+has CW68 HAD
+look    CW69 LOOK
+more    CW70 MORE
+write   CW71 RIGHT
+go  CW72 GO
+see CW73 
+number  CW74 NUMBER
+no  CW75 NO
+way CW76 
+could   CW77 COULD
+people  CW78 PEOPLE
+my  CW79 MY
+than    CW80 AND THEN
+first   CW81 BREAKFAST
+water   CW82 WATER
+been    CW83 BEN
+call    CW84
+who CW85
+oil CW86 OIL
+its CW87 ITS
+now CW88 NOW
+find    CW89 FIND
+long    CW90 LONG
+down    CW91 DOWN
+day CW92
+did CW93 DID
+get CW94 DEAD
+come    CW95 COME
+made    CW96 MADE
+may CW97
+part    CW98 PARK
+oh  CW99 
+yes CW100 YES
+mouth   B2_UW1 
+needlepoint B2_UW2 NEW APPOINTMENT
+Nuremberg   B2_UW3 NUREMBERG
+pennyworth  B2_UW4 CAN YOU WORK
+re-united   B2_UW5 RE-UNITED
+roof    B2_UW6 ROOF
+schoolyard  B2_UW7 YARD
+sharpshooter    B2_UW8 SHARPSHOOTER
+skyward B2_UW9 SKYWARD
+sugar   B2_UW10 SUGAR
+supreme B2_UW11 BRAND
+toothache   B2_UW12 TOOTHACHE
+unusual B2_UW13 UNUSUAL
+voyage  B2_UW14 VOYAGE
+abbreviated B2_UW15 ABBREVIATED
+ablutions   B2_UW16 ABLUTION
+absolve B2_UW17 OF Y'ALL
+absorb  B2_UW18 ZORB
+adhesion    B2_UW19 ADHESION
+adjacent    B2_UW20 EDUCATION
+advantageous    B2_UW21 ADVANTAGES
+agricultural    B2_UW22 AGRICULTURE
+allure  B2_UW23 ALLURE
+aloft   B2_UW24
+aloof   B2_UW25 ALOOF
+although    B2_UW26 I'LL GO
+anxieties   B2_UW27 ANXIETY
+anybody B2_UW28 ANYBODY
+anything    B2_UW29 AMAZING
+apothecary  B2_UW30 APOTHECARY
+appreciable B2_UW31 APPRECIABLE
+apprehend   B2_UW32 APPREHEND
+approach    B2_UW33 SUPPOSED
+astounded   B2_UW34 I FOUNDED
+atrocious   B2_UW35 ATROCIOUS
+authoritative   B2_UW36
+aversion    B2_UW37 AVERSION
+bachelor    B2_UW38 BACHELOR
+bathe   B2_UW39 THEN
+baths   B2_UW40 
+battlefield B2_UW41 BATTLEFIELD
+battlements B2_UW42 BAD OMEN
+battleship  B2_UW43 BATTLESHIP
+beef    B2_UW44 
+beleaguering    B2_UW45 WILLIE GREEN
+Bengal  B2_UW46 VAN GOGH
+bequeath    B2_UW47 
+betook  B2_UW48 BUT TRUCK
+betroth B2_UW49 BETROTHED
+blithe  B2_UW50 ELI
+bloodshed   B2_UW51 WAS JED
+bluebells   B2_UW52 BLUE BALLS
+booth   B2_UW53 
+bosom   B2_UW54
+both    B2_UW55 BOTH
+bother  B2_UW56 FATHER
+boulevard   B2_UW57 BOULEVARD
+boyhood B2_UW58 BOYHOOD
+broil   B2_UW59 ROYAL
+brotherhood B2_UW60 BROTHERHOOD
+buffoon B2_UW61 BUFFOON
+bulge   B2_UW62 BORG
+bulrush B2_UW63 FOUR
+butcher B2_UW64 
+butterflies B2_UW65 BUTTERFLY
+candlelight B2_UW66 CANDLELIGHT
+Catholic    B2_UW67 CATHOLIC
+celebrity   B2_UW68 LOVE READY
+chide   B2_UW69 TRIED
+coherent    B2_UW70 COHERENT
+coil    B2_UW71 QUAIL
+convulsion  B2_UW72 CONVERSION
+cowhide B2_UW73 COWHIDE
+deluge  B2_UW74 DELUGE
+digest  B2_UW75 DIGEST
+displeasure B2_UW76 SPIDER
+dispossess  B2_UW77
+dowry   B2_UW78 GALLERY
+durable B2_UW79 TERRIBLE
+Emilio  B2_UW80 EMILY OH
+endowments  B2_UW81 ENDOWMENT
+watch   B2_UW82 WATCH
+plane   B2_UW83 PLANE
+swimming    B2_UW84 SWIMMING
+watches B2_UW85 MARCUS
+lamp    B2_UW86 
+car B2_UW87 CAR
+blue    B2_UW88 BLUE
+rabbit  B2_UW89 RABBIT
+carrot  B2_UW90 SHAREIT
+orange  B2_UW91 ORANGE
+fishing B2_UW92 FISHING
+chair   B2_UW93 CHAIR
+feather B2_UW94 WEATHER
+pencil  B2_UW95 PENCIL
+bathtub B2_UW96 BATHTUB
+bath    B2_UW97 BATH
+ring    B2_UW98 RING
+finger  B2_UW99 FINGER
+thumb   B2_UW100 

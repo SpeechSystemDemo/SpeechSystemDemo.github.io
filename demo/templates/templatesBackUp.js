@@ -2,9 +2,14 @@
 function templatesBackUp() {
     templates = {
         nav_bar: `<header>
-        <h1>CUHK SEEM</h1>
-        <h2>Dysarthric Speech Recognition</h2>
+        <h3><center>CUHK SEEM</center></h3>
+        <h3><center>Dysarthric Speech Recognition</center></h3>
+        <h4><br></h4>
+        <h4><center><a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/8047.pdf"> The CUHK Dysarthric Speech Recognition Systems for English and Cantonese </center></a></h4>
+        <h4><center><a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1536.pdf"> Exploiting Visual Features using Bayesian Gated Neural Networks for Disordered Speech Recognition  </center></a></h4>
     </header>
+
+
     
     
     <nav>
@@ -88,8 +93,9 @@ function templatesBackUp() {
         <video class="vid wave" webkit-playsinline="true" playsinline="true"></video>
     </div>`,
         detail: `<div class="detail">
-        <h3>Other details</h3>
-        <p></p>
+        <p><center>Copyright 2021. All rights reserved. </center></p>
+        <p><center>Department of Systems Engineering and Engineering Management</center></p>
+        <p><center>The Chinese University of Hong Kong</center></p>
       </div>`,
         line: `<div class="line one">
         <div class="black_line"></div>
